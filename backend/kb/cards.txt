@@ -1,0 +1,10 @@
+Debit Card
+
+A debit card is linked to a savings or current account.
+
+Customers can:
+- Withdraw cash from ATMs
+- Make online purchases
+- Pay at stores
+
+If your debit card is lost, immediately block it using internet banking, mobile banking, or customer care.

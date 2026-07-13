@@ -1,0 +1,11 @@
+UPI
+
+Unified Payments Interface (UPI) allows instant money transfers.
+
+Features:
+- 24x7 transfers
+- Mobile number or UPI ID
+- QR Code payments
+- Bank-to-bank transfer
+
+UPI transactions are protected using a secure PIN.

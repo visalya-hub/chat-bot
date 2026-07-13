@@ -1,0 +1,17 @@
+Savings Account
+
+A savings account allows customers to deposit money securely while earning interest.
+
+Required documents:
+- Aadhaar Card
+- PAN Card
+- Passport Size Photograph
+- Address Proof
+
+Customers can open a savings account online or by visiting the nearest branch.
+
+Minimum balance depends on the account type.
+
+KYC verification is mandatory before activation.
+
+A debit card and cheque book may be issued after account opening.

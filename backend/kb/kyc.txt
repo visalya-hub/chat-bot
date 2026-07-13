@@ -1,0 +1,12 @@
+KYC
+
+Know Your Customer (KYC) verification is mandatory.
+
+Accepted documents:
+- Aadhaar Card
+- Passport
+- Driving Licence
+- Voter ID
+- PAN Card
+
+KYC helps prevent fraud and ensures regulatory compliance.
